@@ -2,6 +2,12 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: #DDDDDD;
+}
+
+.jumbotron {
+  background-color: #5B5BE5 !important;
+  color: #fff;
 }
 
 .custom-nav {
@@ -9,8 +15,12 @@ html, body {
   padding: 40px;
 }
 
-.custom-nav a, .custom-nav i {
+.custom-nav a {
   font-size: 3rem !important;
+} 
+
+.custom-nav i {
+  font-size: 2rem !important;
 }
 
 .custom-nav a, h1 {
