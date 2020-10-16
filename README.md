@@ -7,7 +7,7 @@ This program is a note taking app written in HTML and JavaScript utilizing an Ex
 ![app-screen](https://user-images.githubusercontent.com/66024509/92335595-34b79b80-f066-11ea-8361-3b75640aadec.png)
 
 ## Live Link
-This program has been deployed to Heroku and can be found here: [Live App Link](https://dashboard.heroku.com/apps/jesseodonoghue-note-taker/settings)
+This program has been deployed to Heroku and can be found here: [Live App Link](https://jesseodonoghue-note-taker.herokuapp.com/)
 
 ## License Info
 Copyright 2020, Jesse O'Donoghue
